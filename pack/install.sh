@@ -17,7 +17,7 @@ git clone https://github.com/tpope/vim-abolish.git     ./bundle/start/abolish
 git clone https://github.com/tpope/vim-rhubarb.git     ./bundle/start/rhubarb
 
 # rust
-git clone https://github.com/rust-lang/rust.vim.git    ./bundle/start/rustlang
+git clone https://github.com/rust-lang/rust.vim.git    ./bundle/start/rust.vim
 
 # my plugins
 git clone https://github.com/Jeanhwea/vim-minitool.git ./bundle/start/minitool
