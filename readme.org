@@ -19,27 +19,25 @@
 | <2023-12-30 Sat> | *一  |
 | <2024-12-10 Tue> | M*O  |
 
-* 第一季：vim 原生操作
-1. [[file:season1/e01.org][vim 介绍、七个习惯]] | [[https://www.bilibili.com/video/bv1yn4y147dx][视频 01]]
-2. [[file:season1/e02.org][vim 发展及其帮助系统]] | [[https://www.bilibili.com/video/bv1va4y167ja/][视频 02]]
-3. [[file:season1/e03.org][vimtutor 重温 vim 的基础操作]] | [[https://www.bilibili.com/video/bv1gg411r71o/][视频 03]]
-4. [[file:season1/e04.org][vimgolf 打磨你的操作技巧]] | [[https://www.bilibili.com/video/bv1dw411g7ny/][视频 04]]
-5. [[file:season1/e05.org][vim 9.1 发布及 vim 编译安装]] | [[https://www.bilibili.com/video/bv1ik411s7ud/][视频 05]]
-6. [[file:season1/e06.org][text object]] | [[https://www.bilibili.com/video/bv1ba4y127kh/][视频 06]]
-7. [[file:season1/e07.org][救你于水深火热的一些 vim概念]] | [[https://www.bilibili.com/video/bv1st4y1d74u/][视频 07]]
-8. [[file:season1/e08.org][薛定谔的 cat]] | [[https://www.bilibili.com/video/bv1rc411t7z3/][视频 08]]
+* 第一季：vim 原生操作 | [[https://space.bilibili.com/1969478249/channel/collectiondetail][视频课程链接]]
+1. [[file:season1/e01.org][vim 介绍、七个习惯]]
+2. [[file:season1/e02.org][vim 发展及其帮助系统]]
+3. [[file:season1/e03.org][vimtutor 重温 vim 的基础操作]]
+4. [[file:season1/e04.org][vimgolf 打磨你的操作技巧]]
+5. [[file:season1/e05.org][vim 9.1 发布及 vim 编译安装]]
+6. [[file:season1/e06.org][text object]]
+7. [[file:season1/e07.org][救你于水深火热的一些 vim概念]]
+8. [[file:season1/e08.org][薛定谔的 cat]]
 9. [[file:season1/e09.org][quickref]]
-   - 左侧 [[https://www.bilibili.com/video/bv1ic411t7ry/][视频 09]] | [[https://www.bilibili.com/video/bv1pi4y1b7mn/][视频 10]] | [[https://www.bilibili.com/video/bv1c5411i7xc/][视频 11]] | [[https://www.bilibili.com/video/bv1pk411i7db/][视频 12]]
-   - 右侧 [[https://www.bilibili.com/video/bv1sq4y157fp/][视频 13]] | [[https://www.bilibili.com/video/bv1he411h7l6/][视频 14]] | [[https://www.bilibili.com/video/bv1pq4y1l7c6/][视频 15]] | [[https://www.bilibili.com/video/bv1994y1t79k/][视频 16]] | [[https://www.bilibili.com/video/bv1xe411178x/][视频 17]]
-10. [[file:slides/s1e01-learn-keyboards.pdf][键盘发展及编辑器学习曲线]] | [[https://www.bilibili.com/video/bv1yk4y1b7nw/][视频 18]]
-11. [[file:slides/s1e02-vim-summary.pdf][vim 原生操作总结]] | [[https://www.bilibili.com/video/bv1av411q7bz/][视频 19]]
+10. [[file:slides/s1e01-learn-keyboards.pdf][键盘发展及编辑器学习曲线]]
+11. [[file:slides/s1e02-vim-summary.pdf][vim 原生操作总结]]
 
-* 第二季：vim 定制化功能
-1. [[file:slides/s2e01-intro.pdf][vim 插件系统和 runtimepath]] | [[https://www.bilibili.com/video/bv19z421j7vr/][视频01]]
-2. [[file:slides/s2e02-git-vs-vim.pdf][git 和 vim 的连锁反应]] | [[https://www.bilibili.com/video/bv1xb421a7mw/][视频 02]]
-3. [[file:slides/s2e03-surround-sensible.pdf][sensible 和 surround]] | [[https://www.bilibili.com/video/bv1vz421s7jc/][视频 03]]
-4. [[file:slides/s2e04-write-plugin.pdf][编写一个简单的插件 minitool]] | [[https://github.com/jeanhwea/vim-minitool][plugin]] | [[https://www.bilibili.com/video/bv1zs421m7qk/][视频 04]]
-5. [[file:slides/s2e05-scriptease.pdf][scriptease 助力编写 vim 插件]] | [[https://www.bilibili.com/video/BV1gb421e7Xt/][视频 05]]
+* 第二季：vim 定制化功能 | [[https://space.bilibili.com/1969478249/channel/collectiondetail][视频课程链接]]
+1. [[file:slides/s2e01-intro.pdf][vim 插件系统和 runtimepath]]
+2. [[file:slides/s2e02-git-vs-vim.pdf][git 和 vim 的连锁反应]]
+3. [[file:slides/s2e03-surround-sensible.pdf][sensible 和 surround]]
+4. [[file:slides/s2e04-write-plugin.pdf][编写一个简单的插件 minitool]] | [[https://github.com/jeanhwea/vim-minitool][plugin]]
+5. [[file:slides/s2e05-scriptease.pdf][scriptease 助力编写 vim 插件]]
 
 * 链接
 1. [[http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html][键盘图]]
