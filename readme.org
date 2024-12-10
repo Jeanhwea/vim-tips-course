@@ -16,7 +16,8 @@
 
 | date             | name |
 |------------------+------|
-| <2023-12-30 sat> | *一   |
+| <2023-12-30 sat> | *一  |
+| <2024-12-10 Tue> | M*O  |
 
 * 第一季：vim 原生操作
 1. [[file:season1/e01.org][vim 介绍、七个习惯]] | [[https://www.bilibili.com/video/bv1yn4y147dx][视频 01]]
